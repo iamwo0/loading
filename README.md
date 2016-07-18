@@ -4,11 +4,11 @@
 
 # Usage
 
-* First you show generate the cover box like this .
+* First you should generate the cover box like this .
 
         var str = '<div id="over" class="over"></div><div id="layout" class="layout"><img src="images/loading.gif"/></div>';
 
-* Then append this javascript string in you page site, you can append it anywhere you want .
+* Then append this javascript string into you page site, you can append it anywhere you want .
 
         $("body").append(str);
 
